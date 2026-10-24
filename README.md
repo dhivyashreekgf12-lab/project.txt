@@ -1,2 +1,1 @@
-# project.txt
-project detail
+Developing a new project
